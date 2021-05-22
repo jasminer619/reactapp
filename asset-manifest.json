@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.53b8b819.chunk.css",
-    "main.js": "/reactapp/static/js/main.832bc5eb.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.832bc5eb.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.c94b819c.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.c94b819c.js.map",
-    "static/js/2.8911d523.chunk.js": "/reactapp/static/js/2.8911d523.chunk.js",
-    "static/js/2.8911d523.chunk.js.map": "/reactapp/static/js/2.8911d523.chunk.js.map",
-    "static/js/3.fdfffa07.chunk.js": "/reactapp/static/js/3.fdfffa07.chunk.js",
-    "static/js/3.fdfffa07.chunk.js.map": "/reactapp/static/js/3.fdfffa07.chunk.js.map",
-    "index.html": "/reactapp/index.html",
-    "static/css/main.53b8b819.chunk.css.map": "/reactapp/static/css/main.53b8b819.chunk.css.map",
-    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/reactapp/static/js/2.8911d523.chunk.js.LICENSE.txt",
-    "static/media/illustration-mockups.264994a5.svg": "/reactapp/static/media/illustration-mockups.264994a5.svg",
-    "static/media/logo.2b3c07e4.svg": "/reactapp/static/media/logo.2b3c07e4.svg"
+    "main.css": "/reactapp_A2/static/css/main.2326dad5.chunk.css",
+    "main.js": "/reactapp_A2/static/js/main.6b9ae8f0.chunk.js",
+    "main.js.map": "/reactapp_A2/static/js/main.6b9ae8f0.chunk.js.map",
+    "runtime-main.js": "/reactapp_A2/static/js/runtime-main.720ee235.js",
+    "runtime-main.js.map": "/reactapp_A2/static/js/runtime-main.720ee235.js.map",
+    "static/js/2.8911d523.chunk.js": "/reactapp_A2/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/reactapp_A2/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/reactapp_A2/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/reactapp_A2/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/reactapp_A2/index.html",
+    "static/css/main.2326dad5.chunk.css.map": "/reactapp_A2/static/css/main.2326dad5.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/reactapp_A2/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactapp_A2/static/media/bg-intro-desktop.059183ee.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c94b819c.js",
+    "static/js/runtime-main.720ee235.js",
     "static/js/2.8911d523.chunk.js",
-    "static/css/main.53b8b819.chunk.css",
-    "static/js/main.832bc5eb.chunk.js"
+    "static/css/main.2326dad5.chunk.css",
+    "static/js/main.6b9ae8f0.chunk.js"
   ]
 }
